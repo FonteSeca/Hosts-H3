@@ -3411,6 +3411,7 @@
 0.0.0.0 www.youtube.com
 0.0.0.0 m.youtube.com
 0.0.0.0 gmail.com
+0.0.0.0 mail.google.com
 
 # Porn
 0.0.0.0 xvideos.com
